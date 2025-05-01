@@ -2,7 +2,7 @@
 
 A fullstack decentralized application where users compete to capture a virtual flag on the blockchain. The project includes a Solidity smart contract, React/TypeScript frontend, and Node.js/Express backend.
 
-![Capture the Flag DApp Screenshot](./captureTheFlag.png)
+![Capture the Flag DApp Screenshot](./frontend/public/captureTheFlag.png)
 
 ## Project Overview
 
