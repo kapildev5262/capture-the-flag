@@ -265,26 +265,6 @@ npm test
 4. The UI will display the current flag status and ownership information
 5. All flag captures and releases are recorded on the blockchain
 
-## API Endpoints
-
-The backend provides the following API endpoints:
-
-- `GET /api/flag/status` - Returns the current flag status
-- `GET /api/flag/events` - Returns all flag events
-- `GET /api/flag/leaderboard` - Returns the leaderboard
-- `GET /api/flag/address/:address/events` - Returns events for a specific address
-- `GET /api/health` - Health check endpoint
-
-## Future Improvements
-
-Potential enhancements to the project:
-
-1. Add game mechanics (e.g., minimum holding time)
-2. Implement token rewards for flag captures
-3. Add user profiles with on-chain achievements
-4. Create mobile-responsive design
-5. Add time-based challenges or tournaments
-
 
 
 ## License
